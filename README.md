@@ -10,7 +10,7 @@ More details can be found in our paper: 【待更新】
 
 ### Dataset
 
-- 2023/8/24 - v1.0.0: Release LEEC-DEE dataset
+- 2023/8/29 - v1.0.0: Release LEEC-DEE dataset
 
 We provided the original LEEC dataset and the preprocessed LEEC-DEE dataset.
 
@@ -88,4 +88,3 @@ $ tail -f Logs/PTPCG_reproduction.log
 
 MIT Licence
 
->>>>>>> e214a7c (DEE task)
