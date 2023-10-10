@@ -6,7 +6,8 @@ prior legal research which identified critical factors driving and processes gen
 Second, employing the legal knowledge to annotate judicial documents according to the label system and annotation guideline.
 The Legal Element ExtraCtion dataset (LEEC) represents the most extensive and domain-specific legal element extraction dataset in China.
 
-More details can be found in our paper: 【待更新】
+More details can be found in our paper: 
+https://arxiv.org/abs/2310.01271
 
 ### Dataset
 
