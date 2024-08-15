@@ -31,6 +31,8 @@ the preprocessed dataset fo Document Event Extraction (DEE) task.
 | ---------: | :-----: | :---: | :-------: |
 |  Size         | 3325      |415     | 416       |
 
+【Updated】
+The LEEC Dataset can be found in https://cloud.tsinghua.edu.cn/d/4e696ff076d8416ebff5/
 
 ## DEE task
 
