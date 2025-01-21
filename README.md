@@ -15,7 +15,8 @@ https://arxiv.org/abs/2310.01271
 
 We provided the original LEEC dataset and the preprocessed LEEC-DEE dataset.
 
-[LEEC]() : 【待更新】
+[LEEC]() : 【Updated】
+The LEEC Dataset can be found in https://cloud.tsinghua.edu.cn/d/4e696ff076d8416ebff5/
 
 the original LEEC dataset.
 
