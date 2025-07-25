@@ -15,8 +15,7 @@ https://arxiv.org/abs/2310.01271
 
 We provided the original LEEC dataset and the preprocessed LEEC-DEE dataset.
 
-[LEEC]() : 【Updated】
-The LEEC Dataset can be found in https://cloud.tsinghua.edu.cn/d/4e696ff076d8416ebff5/
+
 
 the original LEEC dataset.
 
@@ -24,7 +23,7 @@ the original LEEC dataset.
 | ---------: | :-----: | :---: | 
 |  Size         | 4182      |11572     | 
 
-[LEEC-DEE](https://pan.baidu.com/s/1vg3ecHhsaNSUD419SKC8qg?pwd=nqab): key（提取码）: nqab
+
 
 the preprocessed dataset fo Document Event Extraction (DEE) task.
 
